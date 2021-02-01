@@ -39,12 +39,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- log4j2 -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-log4j2</artifactId>
-		</dependency>
-
 		<!-- Spring Security -->
 		<!-- <dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -55,18 +49,6 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency> -->
-		
-		<!-- junit 5 -->
-		<dependency>
-			<groupId>org.junit.jupiter</groupId>
-			<artifactId>junit-jupiter-api</artifactId>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.junit.jupiter</groupId>
-			<artifactId>junit-jupiter-engine</artifactId>
-			<scope>test</scope>
-		</dependency>
 		
 		<!-- JPA Hibertnate -->
 		<!-- Config add em properties -->
