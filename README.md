@@ -22,7 +22,10 @@
 
 * Para o funcionamento da aplicação siga os passos abaixo:
 * Importe o projeto para uma IDE java EE (Eclipse por exemplo)
+<<<<<<< HEAD
 * Ou baixe o projeto no repositório GIT [https://github.com/geartech/simuladorFrete]
+=======
+>>>>>>> branch 'master' of https://github.com/geartech/simuladorFrete.git
 * Faça o build do projeto, em seguida vá para url: [http://localhost:8090/] 
 
 ### Observações
